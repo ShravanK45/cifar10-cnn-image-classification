@@ -153,7 +153,7 @@ To improve model performance and reduce overfitting, the following techniques we
 
 ## 📈 Results
 
-> **Test Accuracy:** **(Add Your Final Accuracy Here)**
+> **Test Accuracy:** **0.7900000214576721**
 
 The model demonstrates effective learning while maintaining good generalization through regularization and data augmentation techniques.
 
